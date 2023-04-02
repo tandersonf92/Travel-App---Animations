@@ -1,2 +1,2 @@
 # Travel-App---Animations
-Project created to learn about animations
+Project created only to learn about animations. Design Patterns is not the focus on this project.
