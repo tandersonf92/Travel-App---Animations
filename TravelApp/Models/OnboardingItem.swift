@@ -22,7 +22,7 @@ struct OnboardingItem {
                   detail: "With over millions of hotels worldwide, find the perfect accomodation in the most amazing places",
                   bgImage: UIImage(named: "secondTravel")),
             .init(title: "Discover Your Way With New Features",
-                  detail: "Explore exotic destinations with out new features that link you to linke-minded trabellers!",
+                  detail: "Explore exotic destinations with out new features that link you to linke-minded travellers!",
                   bgImage: UIImage(named: "thirdTravel")),
             .init(title: "Feast Your Way",
                   detail: "We recommend you local coisines that are safe and highly recommended by the locals!",
